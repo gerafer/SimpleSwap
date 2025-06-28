@@ -17,7 +17,7 @@ The contract manages liquidity and swaps internally without requiring external R
 ## Deployment Details
 
 - **Network:** Sepolia
-- **Contract Address:** [0xca3dEc0d6A6F0265C507e2790C56B257d46bd1A4](https://sepolia.etherscan.io/address/0xca3dEc0d6A6F0265C507e2790C56B257d46bd1A4#code)
+- **Contract Address:** [0x0226a001bD953469eE404C0A43cCE10d4580ac6C](https://sepolia.etherscan.io/address/0x0226a001bD953469eE404C0A43cCE10d4580ac6C#code)
 - Contract verified and published on Etherscan.
 
 ## Tools Used
