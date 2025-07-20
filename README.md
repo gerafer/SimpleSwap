@@ -14,12 +14,6 @@ This project implements a smart contract named **SimpleSwap**, replicating core 
 
 The contract manages liquidity and swaps internally without requiring external Router or Factory contracts.
 
-## Deployment Details
-
-- **Network:** Sepolia
-- **Contract Address:** [0x0226a001bD953469eE404C0A43cCE10d4580ac6C](https://sepolia.etherscan.io/address/0x0226a001bD953469eE404C0A43cCE10d4580ac6C#code)
-- Contract verified and published on Etherscan.
-
 ## Tools Used
 
 - Remix IDE (development and deployment)
